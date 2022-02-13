@@ -1,5 +1,3 @@
-# Problems Description:
-
 ## Problem 1:
 
 1.a Take several pictures of red, blue, and green items with your phone or other digital cameras (or download some from the internet, if a camera isn’t available).
