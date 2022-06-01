@@ -1,6 +1,6 @@
 ## Problem 1
 
-- This code was developed in February, 2022.
+- This code was developed in March, 2022.
 
 1. Build a fully connected neural network for the housing dataset you did in previous homework. For training and validation use 80% (training) and 20% (validation) split. For this part, only use one hidden layer with 8 nodes. Train your network for 200 epochs. Report your training time, training loss, and evaluation accuracy after 200 epochs. Analyze your results in your report. Make sure to submit your code by providing the GitHub URL of your course repository for this course.
 
